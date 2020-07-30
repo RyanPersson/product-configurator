@@ -1,5 +1,5 @@
 
-import '../css/tutorial-configurator.css';
+// import '../css/tutorial-configurator.css';
 
 let directoryPath = '.';
 
